@@ -69,8 +69,4 @@ Author: Francisco Martín Rico fmrico@gmail.com
 
     - First, launch the ATCSim executable: $ ../ATCSim/build/ATCSim
 
-    - Then, in the other system terminal launch the cppgui executable: $ ../ATCSim/build/cppgui
-1
-1
-1
-1
+    - Then, in the other system terminal launch the cppgui executable: $ ../ATCSim/build/cppgui1
